@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+.main{
+    background-color: rgb(255, 140, 0);
+    position:relative;   
+    left: 120px;
+    width: 490px;
+    height: 490px;
+    border:1px solid black;
+}
+div{
+    width:150px;
+    height:150px;
+    margin:10px;
+    text-align: center;
+}
+.box1{
+    background-color: aqua;
+    position: absolute;
+}
+.box2{
+    background-color:plum;
+    position: absolute;
+    left: 160px;
+    top: 160px;
+    }
+.box3{
+    background-color :blueviolet;
+    position:absolute;
+    left: 320px;
+    bottom: 0;
+}
