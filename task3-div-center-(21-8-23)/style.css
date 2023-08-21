@@ -1,0 +1,46 @@
+body{
+    background-color: aqua;
+    height:550px;
+}
+.box{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+}
+
+/* using flexbox model */
+
+/* body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+} */
+
+/* using gridbox model */
+
+/* body{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+} */
+
+
+/* using margin */
+
+/* .box{
+    margin: 200px auto;
+} */
+
+/* using position */
+/* .box{
+    position: relative;
+    left: 45%;
+    top: 200px;
+} */
+
+/* using transform */
+
+/* .box{
+    transform:translate(500px,200px);
+} */
