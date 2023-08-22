@@ -1,0 +1,44 @@
+body{
+    height: 100vh;
+    width: 100%;
+    border: 2px solid red;
+}
+body h1{
+    margin: 0px;
+    text-align: center;
+}
+.box{
+    width:180px;
+    height: 180px;
+    background-color: black;
+    border-radius: 20%;
+    animation-name:box;
+    transition: 2s;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+    animation-timing-function:Fast Out, Linear In;
+    
+}
+@keyframes box {
+   0%{
+    transform: translateX(0px);
+    background-color: aqua;
+   }
+   25%{
+    transform: translateY(422PX);
+    background-color: black;
+   }
+   50%{
+    transform: translate(1070PX,422px);
+    background-color: aqua;
+   }
+   75%{
+    transform: translate(1070px,0px);
+    background-color: black;
+    
+   }
+   100%{
+    transform: translateX(0px);
+    background-color: aqua;
+   }
+}
