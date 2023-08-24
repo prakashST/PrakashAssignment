@@ -1,0 +1,108 @@
+1.diff programming language,markup and scripting language?
+    When it comes to making a website or app coding involves
+    basically three types of languages i.e the programming language,
+    Scripting Language and Markup Language. 
+i.)Programming language:
+programming languages are set of instructions or code which tells a computer
+what it needs to do
+
+ Examples are Java, C, C++, C#.
+
+ii).Scripting Language:
+it’s all about giving the script to perform some certain task.
+
+Examples are Javascript, PHP, Perl.
+
+iii.)Markup Languages: 
+Markup languages prepare a structure for the content or prepare
+the look or design of a page.
+
+Examples are HTML,XML
+
+
+2.compiler vs interpreter
+
+Compiler	
+A compiler translates the entire source code in a single run.
+
+It consumes less time i.e., it is faster than an interpreter.
+
+It is more efficient.
+
+CPU utilization is more.
+
+Both syntactic and semantic errors can be checked simultaneously.
+
+It is not flexible.
+
+Interpreter
+An interpreter translates the entire source code line by line.
+
+It consumes much more time than the compiler i.e., it is slower than the compiler.
+
+It is less efficient.
+
+CPU utilization is less as compared to the compiler.
+
+Only syntactic errors are checked.
+
+It is flexible.
+
+3.History of Javascript
+
+JavaScript was invented by Brendan Eich in 1995.It was developed for
+Netscape 2, and became the ECMA-262 standard in 1997. JavaScript was 
+initially implemented in Netscape Navigator, which was the most popular
+browser at the time. The language was quickly adopted by Microsoft for
+use in Internet Explorer.
+
+4.implementation of Javascript
+
+There are following three ways in which users can add JavaScript to HTML pages.
+
+Embedding code
+Inline code
+External file
+
+5.Javascript Features
+
+Light Weight Scripting language.
+Dynamic Typing.
+Object-oriented programming support.
+Functional Style.
+Platform Independent.
+Prototype-based.
+Interpreted Language.
+Single-threaded.
+
+6.  OOP vs POP
+
+-----------OOP------------
+(Object oriented programming language)
+
+Object oriented.
+
+Program is divided into objects.
+
+The existing code can be reused.
+
+use for solving big problems.	
+
+Examples:C++, Java.	
+
+------------POP-----------
+(procedure oriented programming)
+
+Structure oriented .
+
+Program is divided into functions.
+
+No code reusability.
+
+Not suitable for solving big problems.
+
+Examples: C, Pascal.
+
+
+
+
